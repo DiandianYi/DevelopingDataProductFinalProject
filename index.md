@@ -38,7 +38,7 @@ This application consists of the interactive panel which cantains the choice of 
 
 By choosing the country as "Argentina" and the indicator as "gdpval", and submitting, we got below plot:
 
-<img src="Screenshot.PNG" style="max-width:1000px;float:center;" />
+<img src="Screenshot.PNG" style="max-width:1000px;float:center;">
 
 --- .class #id 
 
