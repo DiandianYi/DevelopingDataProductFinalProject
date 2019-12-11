@@ -1,5 +1,5 @@
 ---
-title       : The Economic Development and CO2 Emission
+title       : The Economics and CO2 Emission
 subtitle    : The final project for developing data products
 author      : Diandian Yi
 job         : Data Science enthusiast
@@ -9,6 +9,9 @@ hitheme     : tomorrow      #
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
+github:
+  user: DiandianYi
+  repo: DevelopingDataProductFinalProject
 ---
 
 ## The data source of the application
@@ -35,8 +38,11 @@ This application consists of the interactive panel which cantains the choice of 
 
 By choosing the country as "Argentina" and the indicator as "gdpval", and submitting, we got below plot:
 
-<img src="/Users/yidiandian/DevelopingDataProducts_FinalProject/Screenshot 2019-12-11 at 21.12.19.png"; style="max-width:1000px;float:center;">
+<img src="/Users/yidiandian/CourseraProjects/DevelopingDataProductFinalProject/Screenshot 2019-12-11 at 21.12.19.png"; style="max-width:1000px;float:center;">
 
+--- .class #id 
+
+## Thanks for your attention and enjoy the application!
 
 
 
